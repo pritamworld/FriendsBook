@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Friends Diary</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <array name="array_city_list">
+        <item>Select City</item>
+        <item>Toronto</item>
+        <item>Mumbai</item>
+        <item>New Delhi</item>
+        <item>Ahmedabad</item>
+        <item>London</item>
+    </array>
+    <string name="title_add_new_friend">Add New Friend</string>
+    <string name="title_display_friends_details">Friend Details</string>
+    <string name="title_home">Home</string>
+    <string name="title_display_friends_list">Friends List</string>
+    <string name="error_enter_id">Please enter Friend ID</string>
+    <string name="error_enter_name">Please enter Friend Name</string>
+    <string name="lbl_male">Male</string>
+    <string name="lbl_female">Female</string>
+    <string name="error_gender">Please Select Gender</string>
+    <string name="error_city">Please Select City</string>
+    <string name="error_phone">Please enter valid phone number</string>
+    <string name="error_email">Please enter Valid Email Address</string>
+    <string name="error_web_link">Please enter Valid Web URL</string>
+    <string name="msg_add_success">Friend Added Successfully...</string>
+    <string name="friendship_quotes">Friendship is one of the most beautiful things. Friends inspire us, support us, help us to grow, make us feel valued and loved. Friendship can be described as a flower that must be consistently watered and maintained in order to grow and grow well.  Friends have to quarrel to know whether their friendship is true. A real friend will never drag his friend through the muck in public – on the contrary, he will say how great, kind and honest his friend is.</string>
+</resources>
